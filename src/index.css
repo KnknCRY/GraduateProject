@@ -1,0 +1,114 @@
+body{
+    width:100%;
+    background-color: #ffffff;
+}
+.bar{
+    position: absolute;
+    margin-left:2.5%;
+    top:5%;
+    width:30%;
+}
+.cloud{
+    position: absolute;
+    margin-left:2.5%;
+    left:65%;
+    top:5%;
+    width:30%;
+}
+.box{
+    position: absolute;
+    top:5%;
+    margin-left:2.5%;
+    left:30%;
+    width:30%;
+}
+.radar{
+    position: relative;
+    margin-top:5%;
+    margin-left:10%;
+    width:80%;
+}
+
+.eventdrops{
+    position: relative;
+    margin-top:-15%;
+    margin-left:1%;
+}
+#jumppage{
+    border-width: 3px;
+}
+p{
+    position: relative;
+
+}
+#maintable{
+    margin-left:1%;
+    margin-top:32%;
+}
+.singlecloud{
+    position:relative;
+    width:500px;
+    height:400px;
+}
+table{
+    margin-left:2%;
+    width:95%;
+    font-size:20px;
+    table-layout: fixed;
+}
+table table{
+    width:95%;
+}
+/*
+td:nth-child(0) {
+    background: #FFFFFF;
+}
+*/
+
+th{
+    height:50px;
+}
+tr{
+    width:600px;
+    height:50px;
+}
+td{
+    width:30px;
+    padding:3px;
+}
+#t_info{
+    background-color: #AAAAAA;
+}
+td:nth-child(1) {
+    width:10px;
+}
+td:nth-child(2) {
+    width:15px;
+}
+td:nth-child(3) {
+    width:15px;
+}
+td:nth-child(4) {
+    width:25px;
+}
+td:nth-child(7) {
+    width:65px;
+}
+input{
+    font-size: 30px;
+    position: relative;
+    left:2%; 
+}
+input[type=submit] {
+
+    background-color: #888888;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type=submit]:hover {
+    background-color:#444444   ;
+}
+.basicInfo table td:nth-child(2){
+    width:4%;
+}

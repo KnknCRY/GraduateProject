@@ -1,0 +1,36 @@
+body{
+    font-size: 16px;
+}
+.basicInfo{
+    font-size: 24px;
+}
+.single{
+    border:5px #000000 solid;
+    margin:5px;
+}
+.rating{
+    position:relative;
+    left:67%;
+    top:-110px;
+}
+.singlecloud{
+    top:50px;
+    font-size: 30px;
+    text-align: center;
+    position:relative;
+    width:500px;
+    height:400px;
+}
+.radar{
+    position:relative;
+    font-size: 30px;
+    width:400;
+    height:400;
+    left:520px;
+    top:-450px;
+}
+table{
+    margin:2px;
+    width:30%;
+    position: relative;
+}
